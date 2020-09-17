@@ -3,14 +3,12 @@
 [![Website](https://img.shields.io/website?label=ezdev.site&style=for-the-badge&url=https%3A%2F%2Fezdev.site)](https://ezdev.site)
 [![Website](https://img.shields.io/website?label=William%20Ji%20|%20Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2F)][linkedin]
 
-## I'm a sophomore studying Statistics at the University of Toronto!
+### I'm a sophomore studying Statistics at the University of Toronto!
 
 - 🔭 I’m currently working on my new [website](https://williamjih.github.io/my-website-v2/)!
 - 📚 I’m currently learning AWS 
 - 💼 I’m looking for a part-time job from May.2021 - Aug.2021
 - ⚡️ Fun fact: I love to play clarinet 
-
-<br />
 
 ### Languages and Tools:
 
@@ -21,8 +19,6 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Terminal_(macOS))
-
-<br />
 
 ---
 
