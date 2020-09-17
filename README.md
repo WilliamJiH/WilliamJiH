@@ -1,6 +1,6 @@
 ### Hi there, I'm [William][website] 👋
 
-[![Website](https://img.shields.io/website?label=ezdev.site&style=for-the-badge&url=https%3A%2F%2Fezdev.site)](https://ezdev.site)
+[![Website](https://img.shields.io/website?label=ezdev.site&style=for-the-badge&url=https%3A%2F%2Fezdev.site)](https://ezdev.site/about/)
 [![Website](https://img.shields.io/website?label=William%20Ji%20|%20Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2F)][linkedin]
 
 ### I'm a sophomore studying Statistics at the University of Toronto!
