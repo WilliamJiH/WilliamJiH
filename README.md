@@ -5,7 +5,7 @@
 
 ### I'm a sophomore studying Statistics at the University of Toronto!
 
-- 🔭 I’m currently working on my new [website](https://williamjih.github.io/my-website-v2/)!
+- 🔭 I’m currently working on my new [website](http://ezdev.cc)!
 - 📚 I’m currently learning AWS 
 - 💼 I’m looking for a part-time job from May, 2021 - Aug, 2021
 - ⚡️ Fun fact: I love to play clarinet 
