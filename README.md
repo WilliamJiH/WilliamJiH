@@ -37,7 +37,7 @@
 - [Java Improvements - Object Cloning](https://ezdev.site/2020/06/29/java-improvements-object-cloning/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://ezdev.site)
+➡️ more blog posts...](https://ezdev.site)
 
 ---
 
