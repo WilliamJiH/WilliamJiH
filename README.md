@@ -1,6 +1,8 @@
 <!--START_SECTION:waka-->
 
-```txt
+```typescript
+Total Time: 0 secs
+
 No activity tracked
 ```
 
