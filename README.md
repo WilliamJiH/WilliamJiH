@@ -1,13 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-Total Time: 3 hrs 2 mins
+Total Time: 9 hrs 25 mins
 
-TypeScript       1 hr 11 mins    █████████▓░░░░░░░░░░░░░░░   39.04 %
-Python           1 hr 3 mins     ████████▓░░░░░░░░░░░░░░░░   35.05 %
-Text             13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-CSV/TSV          10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Bash             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+TypeScript       6 hrs 59 mins   ██████████████████▓░░░░░░   74.15 %
+Python           1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Bash             30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Text             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
