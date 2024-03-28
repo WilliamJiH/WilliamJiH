@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-Total Time: 15 hrs 26 mins
+Total Time: 13 hrs 49 mins
 
-TypeScript    14 hrs 45 mins  ████████████████████████░   95.62 %
-Markdown      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-textmate      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-XML           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Bash          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TypeScript    13 hrs 9 mins   ███████████████████████▓░   95.03 %
+Markdown      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+textmate      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+XML           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Bash          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
