@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-Total Time: 19 mins
+Total Time: 33 mins
 
-TypeScript   6 mins          ████████░░░░░░░░░░░░░░░░░   31.62 %
-Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        39 mins         █████████████▒░░░░░░░░░░░   53.86 %
 ```
 
 <!--END_SECTION:waka-->
