@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-Total Time: 33 mins
+Total Time: 13 mins
 
-Other        39 mins         █████████████▒░░░░░░░░░░░   53.86 %
+Other        39 mins         ██████████████████▓░░░░░░   74.01 %
 ```
 
 <!--END_SECTION:waka-->
