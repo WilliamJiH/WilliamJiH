@@ -1,9 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-Total Time: 1 hr 12 mins
+Total Time: 2 hrs 55 mins
 
-Other        1 hr 17 mins    █████████████░░░░░░░░░░░░   51.54 %
+TypeScript   2 hrs 42 mins   ████████████████░░░░░░░░░   64.13 %
+Other        1 hr 17 mins    ███████▓░░░░░░░░░░░░░░░░░   30.56 %
 ```
 
 <!--END_SECTION:waka-->
