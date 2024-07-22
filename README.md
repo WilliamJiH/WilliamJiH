@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-Total Time: 4 hrs 11 mins
+Total Time: 2 hrs 46 mins
 
-TypeScript       3 hrs 15 mins   ███████████████████▒░░░░░   77.72 %
-JSON             34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-.env file        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Markdown         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-JavaScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+TypeScript       1 hr 50 mins    ████████████████▓░░░░░░░░   66.34 %
+JSON             34 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+.env file        12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Markdown         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+JavaScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
