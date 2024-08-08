@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-Total Time: 3 hrs 44 mins
+Total Time: 3 hrs 28 mins
 
-TypeScript   3 hrs 24 mins   ██████████████████████▓░░   91.15 %
-JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-textmate     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript   3 hrs 24 mins   ████████████████████████▓   98.24 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+textmate     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
