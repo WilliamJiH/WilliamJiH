@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-Total Time: 5 hrs 48 mins
+Total Time: 5 hrs 18 mins
 
-TypeScript   5 hrs 17 mins   ██████████████████████▓░░   91.06 %
-JSON         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-.env file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TypeScript   4 hrs 47 mins   ██████████████████████▓░░   90.22 %
+JSON         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+.env file    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
