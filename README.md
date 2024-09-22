@@ -1,12 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```typescript
-Total Time: 4 mins
+Total Time: 2 mins
 
-.env file    2 mins          ████████████▓░░░░░░░░░░░░   50.43 %
-TypeScript   2 mins          ████████████▒░░░░░░░░░░░░   48.83 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+.env file    2 mins          ████████████████████████░   96.55 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
