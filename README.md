@@ -1,8 +1,45 @@
-## Hi 👋, I'm William Ji
+# WilliamJiH / README.md
 
-[![Personal Website](https://img.shields.io/badge/Personal_Website-black?logo=vercel)](https://williamji.ca)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WilliamJiH&theme=radical)](https://git.io/streak-stats)
+[![Visitors](https://komarev.com/ghpvc/?username=WilliamJiH&label=VISITORS&style=flat-square&color=2563eb&labelColor=111827)](https://github.com/WilliamJiH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
+
+<div align="center">
+
+<pre>
+William Ji
+
+Computer Science Student · AI & Software Development · Data & Automation
+</pre>
+
+</div>
+
+<div align="center">
+
+![William Ji's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=WilliamJiH&theme=github-compact&hide_border=true&radius=8&area=true&custom_title=Contribution%20Activity)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=WilliamJiH&theme=transparent&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=374151&dates=6b7280&currStreakNum=111827&sideNums=111827)
+
+</div>
+
+| `Area` | `Technologies` |
+|---|---|
+| `Programming Languages` | ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-374151?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white) ![ES6](https://img.shields.io/badge/ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=111827) ![SQL](https://img.shields.io/badge/SQL-475569?style=flat-square&logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat-square&logo=markdown&logoColor=white) |
+| `Frontend & Testing` | ![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-16A34A?style=flat-square&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-7C3AED?style=flat-square&logo=appium&logoColor=white) |
+| `DevOps & Data Infrastructure` | ![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-111827?style=flat-square&logo=apachekafka&logoColor=white) |
+| `Databases` | ![MongoDB](https://img.shields.io/badge/MongoDB-16A34A?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-2563EB?style=flat-square&logo=sqlite&logoColor=white) |
+| `Operating Systems` | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-2563EB?style=flat-square&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-111827?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-16A34A?style=flat-square&logo=android&logoColor=white) |
+| `IDE & Environment` | ![VSCode](https://img.shields.io/badge/VSCode-2563EB?style=flat-square&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-111827?style=flat-square&logo=cursor&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-111827?style=flat-square&logo=pycharm&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-16A34A?style=flat-square&logo=vim&logoColor=white) |
+| `Version Control` | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| `Monitoring & Observability` | ![Splunk](https://img.shields.io/badge/Splunk-111827?style=flat-square&logo=splunk&logoColor=white) |
+
+</div>
